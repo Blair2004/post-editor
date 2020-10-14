@@ -1,0 +1,1 @@
+nsExtraComponents.peEditor  =   require( './components/pe-editor' ).default;LanguageServiceMode
